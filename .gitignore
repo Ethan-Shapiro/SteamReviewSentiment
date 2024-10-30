@@ -1,0 +1,5 @@
+/sample_data
+/env
+all_reviews.csv
+*.csv
+*.parquet
